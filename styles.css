@@ -170,4 +170,12 @@ button {
     font-weight: bold;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+}
+
 
