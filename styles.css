@@ -137,4 +137,37 @@ body {
     font-weight: bold;
 }
 
+.cta {
+    background-color: #3882F6;
+    margin: 128px 356px;
+    border-radius: 10px;  
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-headline {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 64px 32px 0 128px;
+}
+
+.cta-caption {
+    color: white;
+    font-size: 14px;
+    margin: 8px 32px 64px 128px;
+}
+
+button {
+    margin-right: 128px;
+    background-color: #3882F6;
+    border: 2px solid white;
+    padding: 8px 32px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 
